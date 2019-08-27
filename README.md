@@ -1,1 +1,1 @@
-study
+Machine Learning 관련하여 업데이트
